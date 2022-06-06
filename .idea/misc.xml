@@ -3,16 +3,22 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/circle_bg.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/ic_auth.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/ic_otp.xml" value="0.22" />
+        <entry key="app/src/main/res/drawable/receiver_drawable.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/sent_drawable.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_chart.xml" value="0.22" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_number.xml" value="0.2" />
         <entry key="app/src/main/res/layout/activity_otpactivity.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_profile.xml" value="0.2" />
-        <entry key="app/src/main/res/layout/chart_user_item.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/chart_user_item.xml" value="0.5" />
         <entry key="app/src/main/res/layout/fragment_call.xml" value="0.20677083333333332" />
-        <entry key="app/src/main/res/layout/fragment_chat.xml" value="0.31179775280898875" />
+        <entry key="app/src/main/res/layout/fragment_chat.xml" value="0.5" />
         <entry key="app/src/main/res/layout/fragment_status.xml" value="0.20677083333333332" />
+        <entry key="app/src/main/res/layout/receiver_item_layout.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/sent_item_layout.xml" value="0.16" />
       </map>
     </option>
   </component>

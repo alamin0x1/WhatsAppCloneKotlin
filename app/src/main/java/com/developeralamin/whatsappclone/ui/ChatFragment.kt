@@ -45,9 +45,6 @@ class ChatFragment : Fragment() {
                         }
                     }
 
-//                    binding.userlistRecyclerView.layoutManager = LinearLayoutManager(requireContext())
-//                    binding.userlistRecyclerView.adapter = ChartAdapter(requireContext(), userlist)
-
                     binding.userlistRecyclerView.adapter = ChartAdapter(requireContext(), userlist)
                 }
 
